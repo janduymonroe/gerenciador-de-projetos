@@ -1,0 +1,6 @@
+@Ew.GerenciadorDeProjetos.Api_HostAddress = http://localhost:5121
+
+GET {{Ew.GerenciadorDeProjetos.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
